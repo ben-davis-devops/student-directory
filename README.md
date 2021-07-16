@@ -11,7 +11,7 @@ The student directory allows you to manage the list of students enrolled at Vill
 `command_to_install_dependencies` (e.g. `bundle`)
 
 ## Usage (how to run it)'''shell
-*'''*shell
+*'''* shell
 ruby directory.rb
 *'''*
 
